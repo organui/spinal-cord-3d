@@ -1,0 +1,1312 @@
+{
+  "dataset": "BodyParts3D / Anatomography",
+  "version": "4.3",
+  "variant": "Object set 4.3, ontology tree FMA3.0; official IS-A concept-to-element mapping",
+  "retrieved": "2026-10-16",
+  "license": "CC-BY-SA-2.1-JP",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en",
+  "sourceLicenseStatement": "https://lifesciencedb.jp/bp3d/info/index.html#License",
+  "credit": "BodyParts3D / Anatomography, © The Database Center for Life Science. CC BY-SA 2.1 Japan. Adapted by OrganUI.",
+  "mirror": {
+    "repository": "https://github.com/olivercase/body_parts_3d_api",
+    "commit": "fd527e6f4daf732fd814314d9257df5877b844bc"
+  },
+  "mapping": {
+    "file": "docs/model-source/FMA2Obj-4.3.tsv",
+    "sha256": "c3d16c891016da13447de2fc3241d05d92e8f9dc460e363233c03f420b935d4f"
+  },
+  "transform": {
+    "sourceBoundsMm": {
+      "min": [
+        -59.5912,
+        -140.152,
+        782.837
+      ],
+      "max": [
+        90.3946,
+        7.25375,
+        1506.04
+      ]
+    },
+    "centerMm": [
+      15.401699999999998,
+      -66.449125,
+      1144.4385
+    ],
+    "scale": 0.008,
+    "axes": "[x, z, -y]"
+  },
+  "runtime": {
+    "file": "spinal-cord.glb",
+    "bytes": 5104752,
+    "sha256": "db0110e555731e91c488ef3c72cbd1a4b575d4132c4a4cf4cf4f0800f3190020"
+  },
+  "structures": [
+    {
+      "id": "spinal-cord",
+      "fma": "FMA242005",
+      "concepts": [
+        "FMA242005"
+      ],
+      "sourceName": "neural tissue of spinal cord",
+      "elements": [
+        {
+          "element": "FJ4426",
+          "concept": "FMA242005",
+          "sourceName": "Neural tissue of spinal cord",
+          "sha256": "16a3dbf5a0fbc6334df956071a8e27b4f538a9d1f18178919984df0856aa7053",
+          "bytes": 852923,
+          "vertices": 8581,
+          "triangles": 9952
+        }
+      ]
+    },
+    {
+      "id": "medulla-oblongata",
+      "fma": "FMA62004",
+      "concepts": [
+        "FMA62004"
+      ],
+      "sourceName": "medulla oblongata",
+      "elements": [
+        {
+          "element": "FJ1769",
+          "concept": "FMA62004",
+          "sourceName": "Medulla oblongata",
+          "sha256": "6d898f913df68a12422df564f54ddf6ee4d73c6a412808b456f23f1b2c9330eb",
+          "bytes": 391855,
+          "vertices": 3196,
+          "triangles": 6036
+        },
+        {
+          "element": "FJ1831",
+          "concept": "FMA62004",
+          "sourceName": "Medulla oblongata",
+          "sha256": "eab7e3bcb83eea47987673233d3965ea29a9b9e3d00bab9393c5ed12823f286e",
+          "bytes": 400940,
+          "vertices": 3281,
+          "triangles": 6060
+        }
+      ]
+    },
+    {
+      "id": "nerve-c1",
+      "fma": "FMA6442",
+      "concepts": [
+        "FMA6442"
+      ],
+      "sourceName": "left first cervical nerve",
+      "elements": [
+        {
+          "element": "FJ4260",
+          "concept": "FMA6442",
+          "sourceName": "Left first cervical nerve",
+          "sha256": "105b1717c2f70059928f164a575199ebdf801905c80372c3be1228aff88fb9af",
+          "bytes": 134503,
+          "vertices": 1188,
+          "triangles": 2166
+        }
+      ]
+    },
+    {
+      "id": "nerve-c2",
+      "fma": "FMA7003",
+      "concepts": [
+        "FMA7003"
+      ],
+      "sourceName": "trunk of left second cervical nerve",
+      "elements": [
+        {
+          "element": "FJ4261",
+          "concept": "FMA7003",
+          "sourceName": "Trunk of left second cervical nerve",
+          "sha256": "7c350173fe65eacc6f48aff7a2c224e6f1f904e63f05fe41cec69f42d902e746",
+          "bytes": 69930,
+          "vertices": 649,
+          "triangles": 1100
+        }
+      ]
+    },
+    {
+      "id": "nerve-c3",
+      "fma": "FMA7005",
+      "concepts": [
+        "FMA7005"
+      ],
+      "sourceName": "trunk of left third cervical nerve",
+      "elements": [
+        {
+          "element": "FJ4262",
+          "concept": "FMA7005",
+          "sourceName": "Trunk of left third cervical nerve",
+          "sha256": "a13f145f88a653114ecdef8f416bb29cc1237cccd254ec03ec6b405103c2c252",
+          "bytes": 86754,
+          "vertices": 804,
+          "triangles": 1364
+        }
+      ]
+    },
+    {
+      "id": "nerve-c4",
+      "fma": "FMA7007",
+      "concepts": [
+        "FMA7007"
+      ],
+      "sourceName": "trunk of left fourth cervical nerve",
+      "elements": [
+        {
+          "element": "FJ4263",
+          "concept": "FMA7007",
+          "sourceName": "Trunk of left fourth cervical nerve",
+          "sha256": "94f418aa78b950bf3f39ebe6086795c6c66c0fee49c5ed795f6523d0c4f21eb0",
+          "bytes": 60427,
+          "vertices": 571,
+          "triangles": 934
+        }
+      ]
+    },
+    {
+      "id": "nerve-c5",
+      "fma": "FMA24105",
+      "concepts": [
+        "FMA24105"
+      ],
+      "sourceName": "trunk of left fifth cervical nerve",
+      "elements": [
+        {
+          "element": "FJ4264",
+          "concept": "FMA24105",
+          "sourceName": "Trunk of left fifth cervical nerve",
+          "sha256": "c45e251cfc015a3fd9834805a55e29fb3123485d3bc321af2b1442fa975d9c00",
+          "bytes": 115363,
+          "vertices": 1005,
+          "triangles": 1926
+        }
+      ]
+    },
+    {
+      "id": "nerve-c6",
+      "fma": "FMA7011",
+      "concepts": [
+        "FMA7011"
+      ],
+      "sourceName": "trunk of left sixth cervical nerve",
+      "elements": [
+        {
+          "element": "FJ4265",
+          "concept": "FMA7011",
+          "sourceName": "Trunk of left sixth cervical nerve",
+          "sha256": "4f8c708b7a866609078ce513432b060fd9bf04f2b899aef52ebaf9c8af13a200",
+          "bytes": 68404,
+          "vertices": 621,
+          "triangles": 1106
+        }
+      ]
+    },
+    {
+      "id": "nerve-c7",
+      "fma": "FMA7013",
+      "concepts": [
+        "FMA7013"
+      ],
+      "sourceName": "trunk of left seventh cervical nerve",
+      "elements": [
+        {
+          "element": "FJ4266",
+          "concept": "FMA7013",
+          "sourceName": "Trunk of left seventh cervical nerve",
+          "sha256": "d22ca0d722f811e9fba1cc51accfbd50d0e8805070b6fe0616cf9700e57e529a",
+          "bytes": 58244,
+          "vertices": 525,
+          "triangles": 956
+        }
+      ]
+    },
+    {
+      "id": "nerve-c8",
+      "fma": "FMA7015",
+      "concepts": [
+        "FMA7015"
+      ],
+      "sourceName": "trunk of left eighth cervical nerve",
+      "elements": [
+        {
+          "element": "FJ4267",
+          "concept": "FMA7015",
+          "sourceName": "Trunk of left eighth cervical nerve",
+          "sha256": "6e3be4f8b771cd9d2226869e18f2c8e99155319063c44ec1c6869bb930674002",
+          "bytes": 60680,
+          "vertices": 559,
+          "triangles": 970
+        }
+      ]
+    },
+    {
+      "id": "nerve-t1",
+      "fma": "FMA7023",
+      "concepts": [
+        "FMA7023"
+      ],
+      "sourceName": "trunk of left first thoracic nerve",
+      "elements": [
+        {
+          "element": "FJ4245",
+          "concept": "FMA7023",
+          "sourceName": "Trunk of left first thoracic nerve",
+          "sha256": "730268434b74e1ae81dc620a8b841836a9212fbff2cbd201f0a3a1fde4439034",
+          "bytes": 24327,
+          "vertices": 256,
+          "triangles": 344
+        }
+      ]
+    },
+    {
+      "id": "nerve-t2",
+      "fma": "FMA7025",
+      "concepts": [
+        "FMA7025"
+      ],
+      "sourceName": "trunk of left second thoracic nerve",
+      "elements": [
+        {
+          "element": "FJ4248",
+          "concept": "FMA7025",
+          "sourceName": "Trunk of left second thoracic nerve",
+          "sha256": "0248dfe17771bcf2f714318160d7f184cb3127473096329899efc3a946feaee8",
+          "bytes": 27165,
+          "vertices": 256,
+          "triangles": 440
+        }
+      ]
+    },
+    {
+      "id": "brachial-plexus",
+      "fma": "FMA65364",
+      "concepts": [
+        "FMA65362",
+        "FMA65366",
+        "FMA65364",
+        "FMA45239",
+        "FMA45241",
+        "FMA45243"
+      ],
+      "sourceName": "trunks and cords of left brachial nerve plexus",
+      "elements": [
+        {
+          "element": "FJ4290",
+          "concept": "FMA65362",
+          "sourceName": "Superior trunk of left brachial nerve plexus",
+          "sha256": "eef38026c899cc0602025cbdff6efab87c45da270b2b4ff63989f1bd5db52077",
+          "bytes": 26889,
+          "vertices": 256,
+          "triangles": 428
+        },
+        {
+          "element": "FJ4276",
+          "concept": "FMA65366",
+          "sourceName": "Middle trunk of left brachial nerve plexus",
+          "sha256": "af471cdd660e8ec2dd4f783e2d3537c0cb0f96f522031d88389fa1fc12481526",
+          "bytes": 22974,
+          "vertices": 227,
+          "triangles": 350
+        },
+        {
+          "element": "FJ4273",
+          "concept": "FMA65364",
+          "sourceName": "Inferior trunk of left brachial nerve plexus",
+          "sha256": "d04bdf01c87bb85a6476fae87427993eacf640093acbd279954352a2a42486db",
+          "bytes": 24250,
+          "vertices": 258,
+          "triangles": 330
+        },
+        {
+          "element": "FJ4274",
+          "concept": "FMA45239",
+          "sourceName": "Lateral cord of left brachial nerve plexus",
+          "sha256": "b386c72f814da56f26b3fa8647e53d76b75f20008a7b6678d50d644c0358f445",
+          "bytes": 21771,
+          "vertices": 209,
+          "triangles": 348
+        },
+        {
+          "element": "FJ4275",
+          "concept": "FMA45241",
+          "sourceName": "Medial cord of left brachial nerve plexus",
+          "sha256": "dafa39b78d7491f619aa9aa09e676da0560dd86357cc4d118e7ab4ce7cc89e7d",
+          "bytes": 103364,
+          "vertices": 913,
+          "triangles": 1708
+        },
+        {
+          "element": "FJ4280",
+          "concept": "FMA45243",
+          "sourceName": "Posterior cord of left brachial nerve plexus",
+          "sha256": "2951c684acb4242e581f95e2d17bbe59e485bbc77c1d148d7284c68d1883135d",
+          "bytes": 65939,
+          "vertices": 567,
+          "triangles": 1130
+        }
+      ]
+    },
+    {
+      "id": "cauda-equina",
+      "fma": "FMA52590",
+      "concepts": [
+        "FMA52590"
+      ],
+      "sourceName": "cauda equina",
+      "elements": [
+        {
+          "element": "FJ4425",
+          "concept": "FMA52590",
+          "sourceName": "Cauda equina",
+          "sha256": "69c07f328df07098ecaa77c29d9b65f33b928678ae2eb69e984681ffc2e8e339",
+          "bytes": 747869,
+          "vertices": 8676,
+          "triangles": 6716
+        }
+      ]
+    },
+    {
+      "id": "vertebra-c1",
+      "fma": "FMA12519",
+      "concepts": [
+        "FMA12519"
+      ],
+      "sourceName": "atlas",
+      "elements": [
+        {
+          "element": "FJ3176",
+          "concept": "FMA12519",
+          "sourceName": "Atlas",
+          "sha256": "0adae3222ad287eb367bbf83c1cd6fbcd7664f40a1d2536feb6d768d7518e6bf",
+          "bytes": 148313,
+          "vertices": 1433,
+          "triangles": 2094
+        }
+      ]
+    },
+    {
+      "id": "vertebra-c2",
+      "fma": "FMA12520",
+      "concepts": [
+        "FMA12520"
+      ],
+      "sourceName": "axis",
+      "elements": [
+        {
+          "element": "FJ3177",
+          "concept": "FMA12520",
+          "sourceName": "Axis",
+          "sha256": "6cf7e5c7936a928dd6a53e177f05a1342be97fd4093b8cb0750ab958ad57fc55",
+          "bytes": 161535,
+          "vertices": 1540,
+          "triangles": 2288
+        }
+      ]
+    },
+    {
+      "id": "vertebra-c3",
+      "fma": "FMA12521",
+      "concepts": [
+        "FMA12521"
+      ],
+      "sourceName": "third cervical vertebra",
+      "elements": [
+        {
+          "element": "FJ3161",
+          "concept": "FMA12521",
+          "sourceName": "Third cervical vertebra",
+          "sha256": "1fc32d22fd860e4fab228e2063a8a167ea2e85b14ad7570ac5c3a1d693df67e3",
+          "bytes": 139208,
+          "vertices": 1323,
+          "triangles": 2030
+        }
+      ]
+    },
+    {
+      "id": "vertebra-c4",
+      "fma": "FMA12522",
+      "concepts": [
+        "FMA12522"
+      ],
+      "sourceName": "fourth cervical vertebra",
+      "elements": [
+        {
+          "element": "FJ3164",
+          "concept": "FMA12522",
+          "sourceName": "Fourth cervical vertebra",
+          "sha256": "8a211a85a55ca6ed0466a7ff9505656f80677b8c3fdaf133026b750974089111",
+          "bytes": 161128,
+          "vertices": 1469,
+          "triangles": 2410
+        }
+      ]
+    },
+    {
+      "id": "vertebra-c5",
+      "fma": "FMA12523",
+      "concepts": [
+        "FMA12523"
+      ],
+      "sourceName": "fifth cervical vertebra",
+      "elements": [
+        {
+          "element": "FJ3167",
+          "concept": "FMA12523",
+          "sourceName": "Fifth cervical vertebra",
+          "sha256": "b5e0cb9386110c82189b036d56d8be640a29c7f56fa88cf922bce80c93a33825",
+          "bytes": 158493,
+          "vertices": 1539,
+          "triangles": 2196
+        }
+      ]
+    },
+    {
+      "id": "vertebra-c6",
+      "fma": "FMA12524",
+      "concepts": [
+        "FMA12524"
+      ],
+      "sourceName": "sixth cervical vertebra",
+      "elements": [
+        {
+          "element": "FJ3170",
+          "concept": "FMA12524",
+          "sourceName": "Sixth cervical vertebra",
+          "sha256": "ca1c7507951b7a16bbd4286492391af0a4f60c8f07fb59a876f6526853ce9f60",
+          "bytes": 161671,
+          "vertices": 1498,
+          "triangles": 2374
+        }
+      ]
+    },
+    {
+      "id": "vertebra-c7",
+      "fma": "FMA12525",
+      "concepts": [
+        "FMA12525"
+      ],
+      "sourceName": "seventh cervical vertebra",
+      "elements": [
+        {
+          "element": "FJ3172",
+          "concept": "FMA12525",
+          "sourceName": "Seventh cervical vertebra",
+          "sha256": "20df76505e5d21ad9eac99e1dd241576a4411a3fa0d2c1d3dda7aa69a9f79f32",
+          "bytes": 132995,
+          "vertices": 1324,
+          "triangles": 1820
+        }
+      ]
+    },
+    {
+      "id": "vertebra-t1",
+      "fma": "FMA9165",
+      "concepts": [
+        "FMA9165"
+      ],
+      "sourceName": "first thoracic vertebra",
+      "elements": [
+        {
+          "element": "FJ3158",
+          "concept": "FMA9165",
+          "sourceName": "First thoracic vertebra",
+          "sha256": "decdbc71af9e3ed2ec870ec51cb13074293ad95365e11d51a0429fcde4e7be86",
+          "bytes": 113811,
+          "vertices": 1078,
+          "triangles": 1700
+        }
+      ]
+    },
+    {
+      "id": "vertebra-t2",
+      "fma": "FMA9187",
+      "concepts": [
+        "FMA9187"
+      ],
+      "sourceName": "second thoracic vertebra",
+      "elements": [
+        {
+          "element": "FJ3160",
+          "concept": "FMA9187",
+          "sourceName": "Second thoracic vertebra",
+          "sha256": "a80babd2d3d511869c791607dad70939daf0ea8974f28a0a0c37278a94a832b9",
+          "bytes": 126209,
+          "vertices": 1161,
+          "triangles": 1938
+        }
+      ]
+    },
+    {
+      "id": "vertebra-t3",
+      "fma": "FMA9209",
+      "concepts": [
+        "FMA9209"
+      ],
+      "sourceName": "third thoracic vertebra",
+      "elements": [
+        {
+          "element": "FJ3163",
+          "concept": "FMA9209",
+          "sourceName": "Third thoracic vertebra",
+          "sha256": "8e53609cdd7c5a49a1cbb9abd5e97a43e0a21a16708dcb71f085555010d190f8",
+          "bytes": 130173,
+          "vertices": 1175,
+          "triangles": 2038
+        }
+      ]
+    },
+    {
+      "id": "vertebra-t4",
+      "fma": "FMA9248",
+      "concepts": [
+        "FMA9248"
+      ],
+      "sourceName": "fourth thoracic vertebra",
+      "elements": [
+        {
+          "element": "FJ3166",
+          "concept": "FMA9248",
+          "sourceName": "Fourth thoracic vertebra",
+          "sha256": "6b6d555c6132b5dd673e9b702a76574f2869462aace2bb3892cd8e38387ce0dc",
+          "bytes": 133514,
+          "vertices": 1210,
+          "triangles": 2066
+        }
+      ]
+    },
+    {
+      "id": "vertebra-t5",
+      "fma": "FMA9922",
+      "concepts": [
+        "FMA9922"
+      ],
+      "sourceName": "fifth thoracic vertebra",
+      "elements": [
+        {
+          "element": "FJ3169",
+          "concept": "FMA9922",
+          "sourceName": "Fifth thoracic vertebra",
+          "sha256": "2a06234c1a3837b3b643f0dd3af11843c85f6bd2a8ed29a011da31fea08d0682",
+          "bytes": 147550,
+          "vertices": 1321,
+          "triangles": 2280
+        }
+      ]
+    },
+    {
+      "id": "vertebra-t6",
+      "fma": "FMA9945",
+      "concepts": [
+        "FMA9945"
+      ],
+      "sourceName": "sixth thoracic vertebra",
+      "elements": [
+        {
+          "element": "FJ3171",
+          "concept": "FMA9945",
+          "sourceName": "Sixth thoracic vertebra",
+          "sha256": "082ac32fee22c34609758a61d58227d7dcd84220bf4264f8f110f64f2ebb3992",
+          "bytes": 148727,
+          "vertices": 1353,
+          "triangles": 2248
+        }
+      ]
+    },
+    {
+      "id": "vertebra-t7",
+      "fma": "FMA9968",
+      "concepts": [
+        "FMA9968"
+      ],
+      "sourceName": "seventh thoracic vertebra",
+      "elements": [
+        {
+          "element": "FJ3173",
+          "concept": "FMA9968",
+          "sourceName": "Seventh thoracic vertebra",
+          "sha256": "9f20e518e1a27a7c4be01a829bef7afda1a032cedf45c0fe165539a7df2edc8e",
+          "bytes": 167251,
+          "vertices": 1478,
+          "triangles": 2574
+        }
+      ]
+    },
+    {
+      "id": "vertebra-t8",
+      "fma": "FMA9991",
+      "concepts": [
+        "FMA9991"
+      ],
+      "sourceName": "eighth thoracic vertebra",
+      "elements": [
+        {
+          "element": "FJ3174",
+          "concept": "FMA9991",
+          "sourceName": "Eighth thoracic vertebra",
+          "sha256": "3f4f6575d9392332f5a8e04efdc2e1525fdd5d3ac1c3dac6b2f5f540d9833dad",
+          "bytes": 157078,
+          "vertices": 1392,
+          "triangles": 2424
+        }
+      ]
+    },
+    {
+      "id": "vertebra-t9",
+      "fma": "FMA10014",
+      "concepts": [
+        "FMA10014"
+      ],
+      "sourceName": "ninth thoracic vertebra",
+      "elements": [
+        {
+          "element": "FJ3175",
+          "concept": "FMA10014",
+          "sourceName": "Ninth thoracic vertebra",
+          "sha256": "41be91d8fd03e9894d868be28e931c66f5d805764bf143f91e8f8990c5784d15",
+          "bytes": 165754,
+          "vertices": 1443,
+          "triangles": 2586
+        }
+      ]
+    },
+    {
+      "id": "vertebra-t10",
+      "fma": "FMA10037",
+      "concepts": [
+        "FMA10037"
+      ],
+      "sourceName": "tenth thoracic vertebra",
+      "elements": [
+        {
+          "element": "FJ3154",
+          "concept": "FMA10037",
+          "sourceName": "Tenth thoracic vertebra",
+          "sha256": "b8322a72a3fc0e720e22fdbbdc81f04adaaa12a7ce5a11b76013e6f6e0e974c7",
+          "bytes": 181310,
+          "vertices": 1584,
+          "triangles": 2790
+        }
+      ]
+    },
+    {
+      "id": "vertebra-t11",
+      "fma": "FMA10059",
+      "concepts": [
+        "FMA10059"
+      ],
+      "sourceName": "eleventh thoracic vertebra",
+      "elements": [
+        {
+          "element": "FJ3155",
+          "concept": "FMA10059",
+          "sourceName": "Eleventh thoracic vertebra",
+          "sha256": "f1734b5a82b3134f392b770255947569b8fb7fcefd152846a1102e7fa3c7b543",
+          "bytes": 177706,
+          "vertices": 1593,
+          "triangles": 2674
+        }
+      ]
+    },
+    {
+      "id": "vertebra-t12",
+      "fma": "FMA10081",
+      "concepts": [
+        "FMA10081"
+      ],
+      "sourceName": "twelfth thoracic vertebra",
+      "elements": [
+        {
+          "element": "FJ3156",
+          "concept": "FMA10081",
+          "sourceName": "Twelfth thoracic vertebra",
+          "sha256": "396f459937f9afd71ee42ed17cad6b989842c6ec072a1401dc184bc292a0d68d",
+          "bytes": 181289,
+          "vertices": 1593,
+          "triangles": 2772
+        }
+      ]
+    },
+    {
+      "id": "vertebra-l1",
+      "fma": "FMA13072",
+      "concepts": [
+        "FMA13072"
+      ],
+      "sourceName": "first lumbar vertebra",
+      "elements": [
+        {
+          "element": "FJ3157",
+          "concept": "FMA13072",
+          "sourceName": "First lumbar vertebra",
+          "sha256": "3d5c43595140cf7e17d3698ec8d03568cacfeb6352b82d9cf2ed3a6ab097868f",
+          "bytes": 193434,
+          "vertices": 1682,
+          "triangles": 2972
+        }
+      ]
+    },
+    {
+      "id": "vertebra-l2",
+      "fma": "FMA13073",
+      "concepts": [
+        "FMA13073"
+      ],
+      "sourceName": "second lumbar vertebra",
+      "elements": [
+        {
+          "element": "FJ3159",
+          "concept": "FMA13073",
+          "sourceName": "Second lumbar vertebra",
+          "sha256": "f754ca81497dbf3d52a96d4243c74c692c6d3b4a5027db4d950bf6934e5a728a",
+          "bytes": 213652,
+          "vertices": 1875,
+          "triangles": 3214
+        }
+      ]
+    },
+    {
+      "id": "vertebra-l3",
+      "fma": "FMA13074",
+      "concepts": [
+        "FMA13074"
+      ],
+      "sourceName": "third lumbar vertebra",
+      "elements": [
+        {
+          "element": "FJ3162",
+          "concept": "FMA13074",
+          "sourceName": "Third lumbar vertebra",
+          "sha256": "eefd71864836c9138d817d757932c987f94b0aff72fd825d92153052d4bf25b4",
+          "bytes": 213996,
+          "vertices": 1849,
+          "triangles": 3272
+        }
+      ]
+    },
+    {
+      "id": "vertebra-l4",
+      "fma": "FMA13075",
+      "concepts": [
+        "FMA13075"
+      ],
+      "sourceName": "fourth lumbar vertebra",
+      "elements": [
+        {
+          "element": "FJ3165",
+          "concept": "FMA13075",
+          "sourceName": "Fourth lumbar vertebra",
+          "sha256": "819bc08eef893a233a1292d76e9ba3c8d12151097526bca0624935dd10a95808",
+          "bytes": 229439,
+          "vertices": 1968,
+          "triangles": 3512
+        }
+      ]
+    },
+    {
+      "id": "vertebra-l5",
+      "fma": "FMA13076",
+      "concepts": [
+        "FMA13076"
+      ],
+      "sourceName": "fifth lumbar vertebra",
+      "elements": [
+        {
+          "element": "FJ3168",
+          "concept": "FMA13076",
+          "sourceName": "Fifth lumbar vertebra",
+          "sha256": "91a45192b217738af6e18cd979907d858b8dc5ae30831c3d0edcc7c83bf112b0",
+          "bytes": 251770,
+          "vertices": 2115,
+          "triangles": 3892
+        }
+      ]
+    },
+    {
+      "id": "sacrum",
+      "fma": "FMA16202",
+      "concepts": [
+        "FMA16202"
+      ],
+      "sourceName": "sacrum",
+      "elements": [
+        {
+          "element": "FJ3393",
+          "concept": "FMA16202",
+          "sourceName": "Sacrum",
+          "sha256": "075790fa7c698f2128c83c9321167a19f67d09830cbc93b465619b4ac86bd7e6",
+          "bytes": 654514,
+          "vertices": 5293,
+          "triangles": 9922
+        }
+      ]
+    },
+    {
+      "id": "disc-c2-c3",
+      "fma": "FMA25058",
+      "concepts": [
+        "FMA25058"
+      ],
+      "sourceName": "intervertebral disk of axis",
+      "elements": [
+        {
+          "element": "FJ3202",
+          "concept": "FMA25058",
+          "sourceName": "Intervertebral disk of axis",
+          "sha256": "a00d34def49239402d52c4cf6c254570dff0792cbf9df89adf1c4285a14f5a64",
+          "bytes": 235087,
+          "vertices": 1941,
+          "triangles": 3712
+        }
+      ]
+    },
+    {
+      "id": "disc-c3-c4",
+      "fma": "FMA13896",
+      "concepts": [
+        "FMA13896"
+      ],
+      "sourceName": "intervertebral disk of third cervical vertebra",
+      "elements": [
+        {
+          "element": "FJ3213",
+          "concept": "FMA13896",
+          "sourceName": "Intervertebral disk of third cervical vertebra",
+          "sha256": "941380d19e2be9b6cbf97ebe2f5cc3f47c656cbd961967665bc83ef94d3fe408",
+          "bytes": 58365,
+          "vertices": 608,
+          "triangles": 770
+        }
+      ]
+    },
+    {
+      "id": "disc-c4-c5",
+      "fma": "FMA13897",
+      "concepts": [
+        "FMA13897"
+      ],
+      "sourceName": "intervertebral disk of fourth cervical vertebra",
+      "elements": [
+        {
+          "element": "FJ3218",
+          "concept": "FMA13897",
+          "sourceName": "Intervertebral disk of fourth cervical vertebra",
+          "sha256": "fc8ca687ae2db092cf7873d66974c89b0f3ae3818c854703f60e98068e0717f6",
+          "bytes": 66817,
+          "vertices": 676,
+          "triangles": 926
+        }
+      ]
+    },
+    {
+      "id": "disc-c5-c6",
+      "fma": "FMA13898",
+      "concepts": [
+        "FMA13898"
+      ],
+      "sourceName": "intervertebral disk of fifth cervical vertebra",
+      "elements": [
+        {
+          "element": "FJ3219",
+          "concept": "FMA13898",
+          "sourceName": "Intervertebral disk of fifth cervical vertebra",
+          "sha256": "bc5feec465f04f070de074bb2f6f9770473048d49f2518de6f7c93848b8d7cb0",
+          "bytes": 68274,
+          "vertices": 685,
+          "triangles": 956
+        }
+      ]
+    },
+    {
+      "id": "disc-c6-c7",
+      "fma": "FMA13899",
+      "concepts": [
+        "FMA13899"
+      ],
+      "sourceName": "intervertebral disk of sixth cervical vertebra",
+      "elements": [
+        {
+          "element": "FJ3220",
+          "concept": "FMA13899",
+          "sourceName": "Intervertebral disk of sixth cervical vertebra",
+          "sha256": "fc4330356dd0aa56c50bcb356303711cc9b7e96b2b7e30e7031547c83806d86a",
+          "bytes": 78490,
+          "vertices": 888,
+          "triangles": 892
+        }
+      ]
+    },
+    {
+      "id": "disc-c7-t1",
+      "fma": "FMA13900",
+      "concepts": [
+        "FMA13900"
+      ],
+      "sourceName": "intervertebral disk of seventh cervical vertebra",
+      "elements": [
+        {
+          "element": "FJ3221",
+          "concept": "FMA13900",
+          "sourceName": "Intervertebral disk of seventh cervical vertebra",
+          "sha256": "b766aa63a293d3de68c761ca4a4501d0278cfa5c4b7c481c24bc9fbe782e374b",
+          "bytes": 87873,
+          "vertices": 949,
+          "triangles": 1092
+        }
+      ]
+    },
+    {
+      "id": "disc-t1-t2",
+      "fma": "FMA10458",
+      "concepts": [
+        "FMA10458"
+      ],
+      "sourceName": "intervertebral disk of first thoracic vertebra",
+      "elements": [
+        {
+          "element": "FJ3222",
+          "concept": "FMA10458",
+          "sourceName": "Intervertebral disk of first thoracic vertebra",
+          "sha256": "f5c2af84b26e8bd1010f67c6ba2194bf54c3e541b6d089c114ce933ce7b641bb",
+          "bytes": 98251,
+          "vertices": 1049,
+          "triangles": 1232
+        }
+      ]
+    },
+    {
+      "id": "disc-t2-t3",
+      "fma": "FMA13495",
+      "concepts": [
+        "FMA13495"
+      ],
+      "sourceName": "intervertebral disk of second thoracic vertebra",
+      "elements": [
+        {
+          "element": "FJ3223",
+          "concept": "FMA13495",
+          "sourceName": "Intervertebral disk of second thoracic vertebra",
+          "sha256": "e4f42fbb1ff973a61a566fb4a9ab4e0757f2f110544cc75eed6d3fbbf9a784df",
+          "bytes": 113738,
+          "vertices": 1237,
+          "triangles": 1374
+        }
+      ]
+    },
+    {
+      "id": "disc-t3-t4",
+      "fma": "FMA13500",
+      "concepts": [
+        "FMA13500"
+      ],
+      "sourceName": "intervertebral disk of third thoracic vertebra",
+      "elements": [
+        {
+          "element": "FJ3224",
+          "concept": "FMA13500",
+          "sourceName": "Intervertebral disk of third thoracic vertebra",
+          "sha256": "fb5a2310f93e646d982c8cd75104df95aa5e4633a79f05342acd9ee4f64ec7a9",
+          "bytes": 132875,
+          "vertices": 1495,
+          "triangles": 1474
+        }
+      ]
+    },
+    {
+      "id": "disc-t4-t5",
+      "fma": "FMA13501",
+      "concepts": [
+        "FMA13501"
+      ],
+      "sourceName": "intervertebral disk of fourth thoracic vertebra",
+      "elements": [
+        {
+          "element": "FJ3203",
+          "concept": "FMA13501",
+          "sourceName": "Intervertebral disk of fourth thoracic vertebra",
+          "sha256": "3f7b88045dcf1ee6f7ac00f951d2f0c2a1fc89c63e77dd2f87ea8d8f88c12786",
+          "bytes": 114896,
+          "vertices": 1164,
+          "triangles": 1560
+        }
+      ]
+    },
+    {
+      "id": "disc-t5-t6",
+      "fma": "FMA13502",
+      "concepts": [
+        "FMA13502"
+      ],
+      "sourceName": "intervertebral disk of fifth thoracic vertebra",
+      "elements": [
+        {
+          "element": "FJ3204",
+          "concept": "FMA13502",
+          "sourceName": "Intervertebral disk of fifth thoracic vertebra",
+          "sha256": "26383360a9ce7ab69998185e58ff11c8b6c5cc6deb4b2a6f33c1c5ee86856d5b",
+          "bytes": 142268,
+          "vertices": 1470,
+          "triangles": 1836
+        }
+      ]
+    },
+    {
+      "id": "disc-t6-t7",
+      "fma": "FMA13503",
+      "concepts": [
+        "FMA13503"
+      ],
+      "sourceName": "intervertebral disk of sixth thoracic vertebra",
+      "elements": [
+        {
+          "element": "FJ3205",
+          "concept": "FMA13503",
+          "sourceName": "Intervertebral disk of sixth thoracic vertebra",
+          "sha256": "7ba98ac182ae384902306b9f811c85f37afa6f5831d52a085ed57d73c9a08597",
+          "bytes": 205384,
+          "vertices": 2106,
+          "triangles": 2564
+        }
+      ]
+    },
+    {
+      "id": "disc-t7-t8",
+      "fma": "FMA13504",
+      "concepts": [
+        "FMA13504"
+      ],
+      "sourceName": "intervertebral disk of seventh thoracic vertebra",
+      "elements": [
+        {
+          "element": "FJ3206",
+          "concept": "FMA13504",
+          "sourceName": "Intervertebral disk of seventh thoracic vertebra",
+          "sha256": "d62bb5e51751735b1cbc61a116ddc914d7df397b42210332c2e8515a41f422d5",
+          "bytes": 207624,
+          "vertices": 2105,
+          "triangles": 2630
+        }
+      ]
+    },
+    {
+      "id": "disc-t8-t9",
+      "fma": "FMA13505",
+      "concepts": [
+        "FMA13505"
+      ],
+      "sourceName": "intervertebral disk of eighth thoracic vertebra",
+      "elements": [
+        {
+          "element": "FJ3207",
+          "concept": "FMA13505",
+          "sourceName": "Intervertebral disk of eighth thoracic vertebra",
+          "sha256": "42ee1a498f882c99d6e8e7a68988daaecae8ba17cac0fec4abe2472c82523731",
+          "bytes": 265862,
+          "vertices": 2919,
+          "triangles": 2894
+        }
+      ]
+    },
+    {
+      "id": "disc-t9-t10",
+      "fma": "FMA13506",
+      "concepts": [
+        "FMA13506"
+      ],
+      "sourceName": "intervertebral disk of ninth thoracic vertebra",
+      "elements": [
+        {
+          "element": "FJ3208",
+          "concept": "FMA13506",
+          "sourceName": "Intervertebral disk of ninth thoracic vertebra",
+          "sha256": "f3cb730a0db38b2c61227a1302136393bf3038d4298c5ba972968b47bf34dce4",
+          "bytes": 264813,
+          "vertices": 2876,
+          "triangles": 2940
+        }
+      ]
+    },
+    {
+      "id": "disc-t10-t11",
+      "fma": "FMA13507",
+      "concepts": [
+        "FMA13507"
+      ],
+      "sourceName": "intervertebral disk of tenth thoracic vertebra",
+      "elements": [
+        {
+          "element": "FJ3209",
+          "concept": "FMA13507",
+          "sourceName": "Intervertebral disk of tenth thoracic vertebra",
+          "sha256": "21ce916d9e706032f7b40731206f94c131c1359c1a96be14adf71d3b04210508",
+          "bytes": 276130,
+          "vertices": 2963,
+          "triangles": 3102
+        }
+      ]
+    },
+    {
+      "id": "disc-t11-t12",
+      "fma": "FMA13508",
+      "concepts": [
+        "FMA13508"
+      ],
+      "sourceName": "intervertebral disk of eleventh thoracic vertebra",
+      "elements": [
+        {
+          "element": "FJ3210",
+          "concept": "FMA13508",
+          "sourceName": "Intervertebral disk of eleventh thoracic vertebra",
+          "sha256": "833ace3f03d5d510695a2b92e4d5c14ec31924a616786024efb152fd5a3d1745",
+          "bytes": 307934,
+          "vertices": 3353,
+          "triangles": 3336
+        }
+      ]
+    },
+    {
+      "id": "disc-t12-l1",
+      "fma": "FMA13509",
+      "concepts": [
+        "FMA13509"
+      ],
+      "sourceName": "intervertebral disk of twelfth thoracic vertebra",
+      "elements": [
+        {
+          "element": "FJ3211",
+          "concept": "FMA13509",
+          "sourceName": "Intervertebral disk of twelfth thoracic vertebra",
+          "sha256": "e441ca0b9ca0ba03f38ba21df5e59b5d1495e06920d9a3159f4fb66d22ee88df",
+          "bytes": 358331,
+          "vertices": 4131,
+          "triangles": 3476
+        }
+      ]
+    },
+    {
+      "id": "disc-l1-l2",
+      "fma": "FMA16033",
+      "concepts": [
+        "FMA16033"
+      ],
+      "sourceName": "intervertebral disk of first lumbar vertebra",
+      "elements": [
+        {
+          "element": "FJ3212",
+          "concept": "FMA16033",
+          "sourceName": "Intervertebral disk of first lumbar vertebra",
+          "sha256": "dbb06d83aaa9db2ffb709734ad4e1bb87091a7d7766dc1ce8a9e23f3daa8f3e8",
+          "bytes": 344570,
+          "vertices": 3874,
+          "triangles": 3498
+        }
+      ]
+    },
+    {
+      "id": "disc-l2-l3",
+      "fma": "FMA16034",
+      "concepts": [
+        "FMA16034"
+      ],
+      "sourceName": "intervertebral disk of second lumbar vertebra",
+      "elements": [
+        {
+          "element": "FJ3214",
+          "concept": "FMA16034",
+          "sourceName": "Intervertebral disk of second lumbar vertebra",
+          "sha256": "4f282d710c20d9e5df48897ce4eb4959f85f039053bbb4b61f440f2d508c58eb",
+          "bytes": 319790,
+          "vertices": 3518,
+          "triangles": 3406
+        }
+      ]
+    },
+    {
+      "id": "disc-l3-l4",
+      "fma": "FMA16035",
+      "concepts": [
+        "FMA16035"
+      ],
+      "sourceName": "intervertebral disk of third lumbar vertebra",
+      "elements": [
+        {
+          "element": "FJ3215",
+          "concept": "FMA16035",
+          "sourceName": "Intervertebral disk of third lumbar vertebra",
+          "sha256": "acb6cc9e42c21395d01ffada9b7b76564818fefdf4787bd728ca216749793a37",
+          "bytes": 359310,
+          "vertices": 4151,
+          "triangles": 3454
+        }
+      ]
+    },
+    {
+      "id": "disc-l4-l5",
+      "fma": "FMA16036",
+      "concepts": [
+        "FMA16036"
+      ],
+      "sourceName": "intervertebral disk of fourth lumbar vertebra",
+      "elements": [
+        {
+          "element": "FJ3216",
+          "concept": "FMA16036",
+          "sourceName": "Intervertebral disk of fourth lumbar vertebra",
+          "sha256": "74cbf4b6ec23fe9d4f57af85bf5f9c1e3a0376a3caa01ea6a3ef46eb223b1f1d",
+          "bytes": 330777,
+          "vertices": 3650,
+          "triangles": 3512
+        }
+      ]
+    },
+    {
+      "id": "disc-l5-s1",
+      "fma": "FMA16037",
+      "concepts": [
+        "FMA16037"
+      ],
+      "sourceName": "intervertebral disk of fifth lumbar vertebra",
+      "elements": [
+        {
+          "element": "FJ3217",
+          "concept": "FMA16037",
+          "sourceName": "Intervertebral disk of fifth lumbar vertebra",
+          "sha256": "e1cb74e7c5031df0b0004833df43465ca502866cfb50dacdb31b647fc49b1035",
+          "bytes": 266442,
+          "vertices": 2582,
+          "triangles": 3498
+        }
+      ]
+    },
+    {
+      "id": "vertebral-arteries",
+      "fma": "FMA76261",
+      "concepts": [
+        "FMA76261",
+        "FMA76262"
+      ],
+      "sourceName": "trunks of right and left vertebral arteries",
+      "elements": [
+        {
+          "element": "FJ1725",
+          "concept": "FMA76261",
+          "sourceName": "Trunk of right vertebral artery",
+          "sha256": "64712383beaef324b6d2f032498be076d42fec123f7ce9ebdcdf70d5343bbdec",
+          "bytes": 52080,
+          "vertices": 489,
+          "triangles": 800
+        },
+        {
+          "element": "FJ1725M",
+          "concept": "FMA76262",
+          "sourceName": "Trunk of left vertebral artery",
+          "sha256": "5bdbd102269eb365b8947da03cf1a0c1837cda5457cb50e33ce490bcc83d7ff6",
+          "bytes": 51659,
+          "vertices": 489,
+          "triangles": 800
+        }
+      ]
+    }
+  ]
+}

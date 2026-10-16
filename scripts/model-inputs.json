@@ -1,0 +1,639 @@
+{
+  "mirrorCommit": "fd527e6f4daf732fd814314d9257df5877b844bc",
+  "mapping": {
+    "file": "docs/model-source/FMA2Obj-4.3.tsv",
+    "sha256": "c3d16c891016da13447de2fc3241d05d92e8f9dc460e363233c03f420b935d4f"
+  },
+  "objects": [
+    {
+      "id": "FJ1725",
+      "file": "FJ1725.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1725_BP23901_FMA76261_Trunk%20of%20right%20vertebral%20artery.obj",
+      "sha256": "64712383beaef324b6d2f032498be076d42fec123f7ce9ebdcdf70d5343bbdec",
+      "bytes": 52080,
+      "mirrorPath": "meshes/FJ1725_BP23901_FMA76261_Trunk of right vertebral artery.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1725_BP23901_FMA76261_Trunk%20of%20right%20vertebral%20artery.obj"
+    },
+    {
+      "id": "FJ1725M",
+      "file": "FJ1725M.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1725M_BP23900_FMA76262_Trunk%20of%20left%20vertebral%20artery.obj",
+      "sha256": "5bdbd102269eb365b8947da03cf1a0c1837cda5457cb50e33ce490bcc83d7ff6",
+      "bytes": 51659,
+      "mirrorPath": "meshes/FJ1725M_BP23900_FMA76262_Trunk of left vertebral artery.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1725M_BP23900_FMA76262_Trunk%20of%20left%20vertebral%20artery.obj"
+    },
+    {
+      "id": "FJ1769",
+      "file": "FJ1769.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1769_BP23201_FMA62004_Medulla%20oblongata.obj",
+      "sha256": "6d898f913df68a12422df564f54ddf6ee4d73c6a412808b456f23f1b2c9330eb",
+      "bytes": 391855,
+      "mirrorPath": "meshes/FJ1769_BP23201_FMA62004_Medulla oblongata.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1769_BP23201_FMA62004_Medulla%20oblongata.obj"
+    },
+    {
+      "id": "FJ1831",
+      "file": "FJ1831.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1831_BP23201_FMA62004_Medulla%20oblongata.obj",
+      "sha256": "eab7e3bcb83eea47987673233d3965ea29a9b9e3d00bab9393c5ed12823f286e",
+      "bytes": 400940,
+      "mirrorPath": "meshes/FJ1831_BP23201_FMA62004_Medulla oblongata.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1831_BP23201_FMA62004_Medulla%20oblongata.obj"
+    },
+    {
+      "id": "FJ3154",
+      "file": "FJ3154.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3154_BP23555_FMA10037_Tenth%20thoracic%20vertebra.obj",
+      "sha256": "b8322a72a3fc0e720e22fdbbdc81f04adaaa12a7ce5a11b76013e6f6e0e974c7",
+      "bytes": 181310,
+      "mirrorPath": "meshes/FJ3154_BP23555_FMA10037_Tenth thoracic vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3154_BP23555_FMA10037_Tenth%20thoracic%20vertebra.obj"
+    },
+    {
+      "id": "FJ3155",
+      "file": "FJ3155.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3155_BP23648_FMA10059_Eleventh%20thoracic%20vertebra.obj",
+      "sha256": "f1734b5a82b3134f392b770255947569b8fb7fcefd152846a1102e7fa3c7b543",
+      "bytes": 177706,
+      "mirrorPath": "meshes/FJ3155_BP23648_FMA10059_Eleventh thoracic vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3155_BP23648_FMA10059_Eleventh%20thoracic%20vertebra.obj"
+    },
+    {
+      "id": "FJ3156",
+      "file": "FJ3156.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3156_BP23373_FMA10081_Twelfth%20thoracic%20vertebra.obj",
+      "sha256": "396f459937f9afd71ee42ed17cad6b989842c6ec072a1401dc184bc292a0d68d",
+      "bytes": 181289,
+      "mirrorPath": "meshes/FJ3156_BP23373_FMA10081_Twelfth thoracic vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3156_BP23373_FMA10081_Twelfth%20thoracic%20vertebra.obj"
+    },
+    {
+      "id": "FJ3157",
+      "file": "FJ3157.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3157_BP23647_FMA13072_First%20lumbar%20vertebra.obj",
+      "sha256": "3d5c43595140cf7e17d3698ec8d03568cacfeb6352b82d9cf2ed3a6ab097868f",
+      "bytes": 193434,
+      "mirrorPath": "meshes/FJ3157_BP23647_FMA13072_First lumbar vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3157_BP23647_FMA13072_First%20lumbar%20vertebra.obj"
+    },
+    {
+      "id": "FJ3158",
+      "file": "FJ3158.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3158_BP23701_FMA9165_First%20thoracic%20vertebra.obj",
+      "sha256": "decdbc71af9e3ed2ec870ec51cb13074293ad95365e11d51a0429fcde4e7be86",
+      "bytes": 113811,
+      "mirrorPath": "meshes/FJ3158_BP23701_FMA9165_First thoracic vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3158_BP23701_FMA9165_First%20thoracic%20vertebra.obj"
+    },
+    {
+      "id": "FJ3159",
+      "file": "FJ3159.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3159_BP23671_FMA13073_Second%20lumbar%20vertebra.obj",
+      "sha256": "f754ca81497dbf3d52a96d4243c74c692c6d3b4a5027db4d950bf6934e5a728a",
+      "bytes": 213652,
+      "mirrorPath": "meshes/FJ3159_BP23671_FMA13073_Second lumbar vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3159_BP23671_FMA13073_Second%20lumbar%20vertebra.obj"
+    },
+    {
+      "id": "FJ3160",
+      "file": "FJ3160.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3160_BP23621_FMA9187_Second%20thoracic%20vertebra.obj",
+      "sha256": "a80babd2d3d511869c791607dad70939daf0ea8974f28a0a0c37278a94a832b9",
+      "bytes": 126209,
+      "mirrorPath": "meshes/FJ3160_BP23621_FMA9187_Second thoracic vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3160_BP23621_FMA9187_Second%20thoracic%20vertebra.obj"
+    },
+    {
+      "id": "FJ3161",
+      "file": "FJ3161.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3161_BP23693_FMA12521_Third%20cervical%20vertebra.obj",
+      "sha256": "1fc32d22fd860e4fab228e2063a8a167ea2e85b14ad7570ac5c3a1d693df67e3",
+      "bytes": 139208,
+      "mirrorPath": "meshes/FJ3161_BP23693_FMA12521_Third cervical vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3161_BP23693_FMA12521_Third%20cervical%20vertebra.obj"
+    },
+    {
+      "id": "FJ3162",
+      "file": "FJ3162.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3162_BP23454_FMA13074_Third%20lumbar%20vertebra.obj",
+      "sha256": "eefd71864836c9138d817d757932c987f94b0aff72fd825d92153052d4bf25b4",
+      "bytes": 213996,
+      "mirrorPath": "meshes/FJ3162_BP23454_FMA13074_Third lumbar vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3162_BP23454_FMA13074_Third%20lumbar%20vertebra.obj"
+    },
+    {
+      "id": "FJ3163",
+      "file": "FJ3163.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3163_BP23513_FMA9209_Third%20thoracic%20vertebra.obj",
+      "sha256": "8e53609cdd7c5a49a1cbb9abd5e97a43e0a21a16708dcb71f085555010d190f8",
+      "bytes": 130173,
+      "mirrorPath": "meshes/FJ3163_BP23513_FMA9209_Third thoracic vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3163_BP23513_FMA9209_Third%20thoracic%20vertebra.obj"
+    },
+    {
+      "id": "FJ3164",
+      "file": "FJ3164.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3164_BP23757_FMA12522_Fourth%20cervical%20vertebra.obj",
+      "sha256": "8a211a85a55ca6ed0466a7ff9505656f80677b8c3fdaf133026b750974089111",
+      "bytes": 161128,
+      "mirrorPath": "meshes/FJ3164_BP23757_FMA12522_Fourth cervical vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3164_BP23757_FMA12522_Fourth%20cervical%20vertebra.obj"
+    },
+    {
+      "id": "FJ3165",
+      "file": "FJ3165.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3165_BP23680_FMA13075_Fourth%20lumbar%20vertebra.obj",
+      "sha256": "819bc08eef893a233a1292d76e9ba3c8d12151097526bca0624935dd10a95808",
+      "bytes": 229439,
+      "mirrorPath": "meshes/FJ3165_BP23680_FMA13075_Fourth lumbar vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3165_BP23680_FMA13075_Fourth%20lumbar%20vertebra.obj"
+    },
+    {
+      "id": "FJ3166",
+      "file": "FJ3166.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3166_BP23564_FMA9248_Fourth%20thoracic%20vertebra.obj",
+      "sha256": "6b6d555c6132b5dd673e9b702a76574f2869462aace2bb3892cd8e38387ce0dc",
+      "bytes": 133514,
+      "mirrorPath": "meshes/FJ3166_BP23564_FMA9248_Fourth thoracic vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3166_BP23564_FMA9248_Fourth%20thoracic%20vertebra.obj"
+    },
+    {
+      "id": "FJ3167",
+      "file": "FJ3167.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3167_BP23524_FMA12523_Fifth%20cervical%20vertebra.obj",
+      "sha256": "b5e0cb9386110c82189b036d56d8be640a29c7f56fa88cf922bce80c93a33825",
+      "bytes": 158493,
+      "mirrorPath": "meshes/FJ3167_BP23524_FMA12523_Fifth cervical vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3167_BP23524_FMA12523_Fifth%20cervical%20vertebra.obj"
+    },
+    {
+      "id": "FJ3168",
+      "file": "FJ3168.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3168_BP23617_FMA13076_Fifth%20lumbar%20vertebra.obj",
+      "sha256": "91a45192b217738af6e18cd979907d858b8dc5ae30831c3d0edcc7c83bf112b0",
+      "bytes": 251770,
+      "mirrorPath": "meshes/FJ3168_BP23617_FMA13076_Fifth lumbar vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3168_BP23617_FMA13076_Fifth%20lumbar%20vertebra.obj"
+    },
+    {
+      "id": "FJ3169",
+      "file": "FJ3169.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3169_BP23466_FMA9922_Fifth%20thoracic%20vertebra.obj",
+      "sha256": "2a06234c1a3837b3b643f0dd3af11843c85f6bd2a8ed29a011da31fea08d0682",
+      "bytes": 147550,
+      "mirrorPath": "meshes/FJ3169_BP23466_FMA9922_Fifth thoracic vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3169_BP23466_FMA9922_Fifth%20thoracic%20vertebra.obj"
+    },
+    {
+      "id": "FJ3170",
+      "file": "FJ3170.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3170_BP24077_FMA12524_Sixth%20cervical%20vertebra.obj",
+      "sha256": "ca1c7507951b7a16bbd4286492391af0a4f60c8f07fb59a876f6526853ce9f60",
+      "bytes": 161671,
+      "mirrorPath": "meshes/FJ3170_BP24077_FMA12524_Sixth cervical vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3170_BP24077_FMA12524_Sixth%20cervical%20vertebra.obj"
+    },
+    {
+      "id": "FJ3171",
+      "file": "FJ3171.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3171_BP24088_FMA9945_Sixth%20thoracic%20vertebra.obj",
+      "sha256": "082ac32fee22c34609758a61d58227d7dcd84220bf4264f8f110f64f2ebb3992",
+      "bytes": 148727,
+      "mirrorPath": "meshes/FJ3171_BP24088_FMA9945_Sixth thoracic vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3171_BP24088_FMA9945_Sixth%20thoracic%20vertebra.obj"
+    },
+    {
+      "id": "FJ3172",
+      "file": "FJ3172.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3172_BP23626_FMA12525_Seventh%20cervical%20vertebra.obj",
+      "sha256": "20df76505e5d21ad9eac99e1dd241576a4411a3fa0d2c1d3dda7aa69a9f79f32",
+      "bytes": 132995,
+      "mirrorPath": "meshes/FJ3172_BP23626_FMA12525_Seventh cervical vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3172_BP23626_FMA12525_Seventh%20cervical%20vertebra.obj"
+    },
+    {
+      "id": "FJ3173",
+      "file": "FJ3173.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3173_BP23615_FMA9968_Seventh%20thoracic%20vertebra.obj",
+      "sha256": "9f20e518e1a27a7c4be01a829bef7afda1a032cedf45c0fe165539a7df2edc8e",
+      "bytes": 167251,
+      "mirrorPath": "meshes/FJ3173_BP23615_FMA9968_Seventh thoracic vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3173_BP23615_FMA9968_Seventh%20thoracic%20vertebra.obj"
+    },
+    {
+      "id": "FJ3174",
+      "file": "FJ3174.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3174_BP23727_FMA9991_Eighth%20thoracic%20vertebra.obj",
+      "sha256": "3f4f6575d9392332f5a8e04efdc2e1525fdd5d3ac1c3dac6b2f5f540d9833dad",
+      "bytes": 157078,
+      "mirrorPath": "meshes/FJ3174_BP23727_FMA9991_Eighth thoracic vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3174_BP23727_FMA9991_Eighth%20thoracic%20vertebra.obj"
+    },
+    {
+      "id": "FJ3175",
+      "file": "FJ3175.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3175_BP23429_FMA10014_Ninth%20thoracic%20vertebra.obj",
+      "sha256": "41be91d8fd03e9894d868be28e931c66f5d805764bf143f91e8f8990c5784d15",
+      "bytes": 165754,
+      "mirrorPath": "meshes/FJ3175_BP23429_FMA10014_Ninth thoracic vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3175_BP23429_FMA10014_Ninth%20thoracic%20vertebra.obj"
+    },
+    {
+      "id": "FJ3176",
+      "file": "FJ3176.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3176_BP23663_FMA12519_Atlas.obj",
+      "sha256": "0adae3222ad287eb367bbf83c1cd6fbcd7664f40a1d2536feb6d768d7518e6bf",
+      "bytes": 148313,
+      "mirrorPath": "meshes/FJ3176_BP23663_FMA12519_Atlas.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3176_BP23663_FMA12519_Atlas.obj"
+    },
+    {
+      "id": "FJ3177",
+      "file": "FJ3177.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3177_BP23565_FMA12520_Axis.obj",
+      "sha256": "6cf7e5c7936a928dd6a53e177f05a1342be97fd4093b8cb0750ab958ad57fc55",
+      "bytes": 161535,
+      "mirrorPath": "meshes/FJ3177_BP23565_FMA12520_Axis.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3177_BP23565_FMA12520_Axis.obj"
+    },
+    {
+      "id": "FJ3202",
+      "file": "FJ3202.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3202_BP23556_FMA25058_Intervertebral%20disk%20of%20axis.obj",
+      "sha256": "a00d34def49239402d52c4cf6c254570dff0792cbf9df89adf1c4285a14f5a64",
+      "bytes": 235087,
+      "mirrorPath": "meshes/FJ3202_BP23556_FMA25058_Intervertebral disk of axis.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3202_BP23556_FMA25058_Intervertebral%20disk%20of%20axis.obj"
+    },
+    {
+      "id": "FJ3203",
+      "file": "FJ3203.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3203_BP23395_FMA13501_Intervertebral%20disk%20of%20fourth%20thoracic%20vertebra.obj",
+      "sha256": "3f7b88045dcf1ee6f7ac00f951d2f0c2a1fc89c63e77dd2f87ea8d8f88c12786",
+      "bytes": 114896,
+      "mirrorPath": "meshes/FJ3203_BP23395_FMA13501_Intervertebral disk of fourth thoracic vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3203_BP23395_FMA13501_Intervertebral%20disk%20of%20fourth%20thoracic%20vertebra.obj"
+    },
+    {
+      "id": "FJ3204",
+      "file": "FJ3204.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3204_BP23548_FMA13502_Intervertebral%20disk%20of%20fifth%20thoracic%20vertebra.obj",
+      "sha256": "26383360a9ce7ab69998185e58ff11c8b6c5cc6deb4b2a6f33c1c5ee86856d5b",
+      "bytes": 142268,
+      "mirrorPath": "meshes/FJ3204_BP23548_FMA13502_Intervertebral disk of fifth thoracic vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3204_BP23548_FMA13502_Intervertebral%20disk%20of%20fifth%20thoracic%20vertebra.obj"
+    },
+    {
+      "id": "FJ3205",
+      "file": "FJ3205.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3205_BP23378_FMA13503_Intervertebral%20disk%20of%20sixth%20thoracic%20vertebra.obj",
+      "sha256": "7ba98ac182ae384902306b9f811c85f37afa6f5831d52a085ed57d73c9a08597",
+      "bytes": 205384,
+      "mirrorPath": "meshes/FJ3205_BP23378_FMA13503_Intervertebral disk of sixth thoracic vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3205_BP23378_FMA13503_Intervertebral%20disk%20of%20sixth%20thoracic%20vertebra.obj"
+    },
+    {
+      "id": "FJ3206",
+      "file": "FJ3206.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3206_BP23588_FMA13504_Intervertebral%20disk%20of%20seventh%20thoracic%20vertebra.obj",
+      "sha256": "d62bb5e51751735b1cbc61a116ddc914d7df397b42210332c2e8515a41f422d5",
+      "bytes": 207624,
+      "mirrorPath": "meshes/FJ3206_BP23588_FMA13504_Intervertebral disk of seventh thoracic vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3206_BP23588_FMA13504_Intervertebral%20disk%20of%20seventh%20thoracic%20vertebra.obj"
+    },
+    {
+      "id": "FJ3207",
+      "file": "FJ3207.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3207_BP23381_FMA13505_Intervertebral%20disk%20of%20eighth%20thoracic%20vertebra.obj",
+      "sha256": "42ee1a498f882c99d6e8e7a68988daaecae8ba17cac0fec4abe2472c82523731",
+      "bytes": 265862,
+      "mirrorPath": "meshes/FJ3207_BP23381_FMA13505_Intervertebral disk of eighth thoracic vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3207_BP23381_FMA13505_Intervertebral%20disk%20of%20eighth%20thoracic%20vertebra.obj"
+    },
+    {
+      "id": "FJ3208",
+      "file": "FJ3208.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3208_BP23570_FMA13506_Intervertebral%20disk%20of%20ninth%20thoracic%20vertebra.obj",
+      "sha256": "f3cb730a0db38b2c61227a1302136393bf3038d4298c5ba972968b47bf34dce4",
+      "bytes": 264813,
+      "mirrorPath": "meshes/FJ3208_BP23570_FMA13506_Intervertebral disk of ninth thoracic vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3208_BP23570_FMA13506_Intervertebral%20disk%20of%20ninth%20thoracic%20vertebra.obj"
+    },
+    {
+      "id": "FJ3209",
+      "file": "FJ3209.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3209_BP23730_FMA13507_Intervertebral%20disk%20of%20tenth%20thoracic%20vertebra.obj",
+      "sha256": "21ce916d9e706032f7b40731206f94c131c1359c1a96be14adf71d3b04210508",
+      "bytes": 276130,
+      "mirrorPath": "meshes/FJ3209_BP23730_FMA13507_Intervertebral disk of tenth thoracic vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3209_BP23730_FMA13507_Intervertebral%20disk%20of%20tenth%20thoracic%20vertebra.obj"
+    },
+    {
+      "id": "FJ3210",
+      "file": "FJ3210.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3210_BP23504_FMA13508_Intervertebral%20disk%20of%20eleventh%20thoracic%20vertebra.obj",
+      "sha256": "833ace3f03d5d510695a2b92e4d5c14ec31924a616786024efb152fd5a3d1745",
+      "bytes": 307934,
+      "mirrorPath": "meshes/FJ3210_BP23504_FMA13508_Intervertebral disk of eleventh thoracic vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3210_BP23504_FMA13508_Intervertebral%20disk%20of%20eleventh%20thoracic%20vertebra.obj"
+    },
+    {
+      "id": "FJ3211",
+      "file": "FJ3211.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3211_BP19656_FMA13509_Intervertebral%20disk%20of%20twelfth%20thoracic%20vertebra.obj",
+      "sha256": "e441ca0b9ca0ba03f38ba21df5e59b5d1495e06920d9a3159f4fb66d22ee88df",
+      "bytes": 358331,
+      "mirrorPath": "meshes/FJ3211_BP19656_FMA13509_Intervertebral disk of twelfth thoracic vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3211_BP19656_FMA13509_Intervertebral%20disk%20of%20twelfth%20thoracic%20vertebra.obj"
+    },
+    {
+      "id": "FJ3212",
+      "file": "FJ3212.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3212_BP23645_FMA16033_Intervertebral%20disk%20of%20first%20lumbar%20vertebra.obj",
+      "sha256": "dbb06d83aaa9db2ffb709734ad4e1bb87091a7d7766dc1ce8a9e23f3daa8f3e8",
+      "bytes": 344570,
+      "mirrorPath": "meshes/FJ3212_BP23645_FMA16033_Intervertebral disk of first lumbar vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3212_BP23645_FMA16033_Intervertebral%20disk%20of%20first%20lumbar%20vertebra.obj"
+    },
+    {
+      "id": "FJ3213",
+      "file": "FJ3213.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3213_BP23714_FMA13896_Intervertebral%20disk%20of%20third%20cervical%20vertebra.obj",
+      "sha256": "941380d19e2be9b6cbf97ebe2f5cc3f47c656cbd961967665bc83ef94d3fe408",
+      "bytes": 58365,
+      "mirrorPath": "meshes/FJ3213_BP23714_FMA13896_Intervertebral disk of third cervical vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3213_BP23714_FMA13896_Intervertebral%20disk%20of%20third%20cervical%20vertebra.obj"
+    },
+    {
+      "id": "FJ3214",
+      "file": "FJ3214.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3214_BP23406_FMA16034_Intervertebral%20disk%20of%20second%20lumbar%20vertebra.obj",
+      "sha256": "4f282d710c20d9e5df48897ce4eb4959f85f039053bbb4b61f440f2d508c58eb",
+      "bytes": 319790,
+      "mirrorPath": "meshes/FJ3214_BP23406_FMA16034_Intervertebral disk of second lumbar vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3214_BP23406_FMA16034_Intervertebral%20disk%20of%20second%20lumbar%20vertebra.obj"
+    },
+    {
+      "id": "FJ3215",
+      "file": "FJ3215.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3215_BP23492_FMA16035_Intervertebral%20disk%20of%20third%20lumbar%20vertebra.obj",
+      "sha256": "acb6cc9e42c21395d01ffada9b7b76564818fefdf4787bd728ca216749793a37",
+      "bytes": 359310,
+      "mirrorPath": "meshes/FJ3215_BP23492_FMA16035_Intervertebral disk of third lumbar vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3215_BP23492_FMA16035_Intervertebral%20disk%20of%20third%20lumbar%20vertebra.obj"
+    },
+    {
+      "id": "FJ3216",
+      "file": "FJ3216.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3216_BP24073_FMA16036_Intervertebral%20disk%20of%20fourth%20lumbar%20vertebra.obj",
+      "sha256": "74cbf4b6ec23fe9d4f57af85bf5f9c1e3a0376a3caa01ea6a3ef46eb223b1f1d",
+      "bytes": 330777,
+      "mirrorPath": "meshes/FJ3216_BP24073_FMA16036_Intervertebral disk of fourth lumbar vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3216_BP24073_FMA16036_Intervertebral%20disk%20of%20fourth%20lumbar%20vertebra.obj"
+    },
+    {
+      "id": "FJ3217",
+      "file": "FJ3217.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3217_BP23709_FMA16037_Intervertebral%20disk%20of%20fifth%20lumbar%20vertebra.obj",
+      "sha256": "e1cb74e7c5031df0b0004833df43465ca502866cfb50dacdb31b647fc49b1035",
+      "bytes": 266442,
+      "mirrorPath": "meshes/FJ3217_BP23709_FMA16037_Intervertebral disk of fifth lumbar vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3217_BP23709_FMA16037_Intervertebral%20disk%20of%20fifth%20lumbar%20vertebra.obj"
+    },
+    {
+      "id": "FJ3218",
+      "file": "FJ3218.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3218_BP23423_FMA13897_Intervertebral%20disk%20of%20fourth%20cervical%20vertebra.obj",
+      "sha256": "fc8ca687ae2db092cf7873d66974c89b0f3ae3818c854703f60e98068e0717f6",
+      "bytes": 66817,
+      "mirrorPath": "meshes/FJ3218_BP23423_FMA13897_Intervertebral disk of fourth cervical vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3218_BP23423_FMA13897_Intervertebral%20disk%20of%20fourth%20cervical%20vertebra.obj"
+    },
+    {
+      "id": "FJ3219",
+      "file": "FJ3219.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3219_BP23710_FMA13898_Intervertebral%20disk%20of%20fifth%20cervical%20vertebra.obj",
+      "sha256": "bc5feec465f04f070de074bb2f6f9770473048d49f2518de6f7c93848b8d7cb0",
+      "bytes": 68274,
+      "mirrorPath": "meshes/FJ3219_BP23710_FMA13898_Intervertebral disk of fifth cervical vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3219_BP23710_FMA13898_Intervertebral%20disk%20of%20fifth%20cervical%20vertebra.obj"
+    },
+    {
+      "id": "FJ3220",
+      "file": "FJ3220.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3220_BP23991_FMA13899_Intervertebral%20disk%20of%20sixth%20cervical%20vertebra.obj",
+      "sha256": "fc4330356dd0aa56c50bcb356303711cc9b7e96b2b7e30e7031547c83806d86a",
+      "bytes": 78490,
+      "mirrorPath": "meshes/FJ3220_BP23991_FMA13899_Intervertebral disk of sixth cervical vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3220_BP23991_FMA13899_Intervertebral%20disk%20of%20sixth%20cervical%20vertebra.obj"
+    },
+    {
+      "id": "FJ3221",
+      "file": "FJ3221.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3221_BP23990_FMA13900_Intervertebral%20disk%20of%20seventh%20cervical%20vertebra.obj",
+      "sha256": "b766aa63a293d3de68c761ca4a4501d0278cfa5c4b7c481c24bc9fbe782e374b",
+      "bytes": 87873,
+      "mirrorPath": "meshes/FJ3221_BP23990_FMA13900_Intervertebral disk of seventh cervical vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3221_BP23990_FMA13900_Intervertebral%20disk%20of%20seventh%20cervical%20vertebra.obj"
+    },
+    {
+      "id": "FJ3222",
+      "file": "FJ3222.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3222_BP23623_FMA10458_Intervertebral%20disk%20of%20first%20thoracic%20vertebra.obj",
+      "sha256": "f5c2af84b26e8bd1010f67c6ba2194bf54c3e541b6d089c114ce933ce7b641bb",
+      "bytes": 98251,
+      "mirrorPath": "meshes/FJ3222_BP23623_FMA10458_Intervertebral disk of first thoracic vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3222_BP23623_FMA10458_Intervertebral%20disk%20of%20first%20thoracic%20vertebra.obj"
+    },
+    {
+      "id": "FJ3223",
+      "file": "FJ3223.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3223_BP23787_FMA13495_Intervertebral%20disk%20of%20second%20thoracic%20vertebra.obj",
+      "sha256": "e4f42fbb1ff973a61a566fb4a9ab4e0757f2f110544cc75eed6d3fbbf9a784df",
+      "bytes": 113738,
+      "mirrorPath": "meshes/FJ3223_BP23787_FMA13495_Intervertebral disk of second thoracic vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3223_BP23787_FMA13495_Intervertebral%20disk%20of%20second%20thoracic%20vertebra.obj"
+    },
+    {
+      "id": "FJ3224",
+      "file": "FJ3224.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3224_BP23785_FMA13500_Intervertebral%20disk%20of%20third%20thoracic%20vertebra.obj",
+      "sha256": "fb5a2310f93e646d982c8cd75104df95aa5e4633a79f05342acd9ee4f64ec7a9",
+      "bytes": 132875,
+      "mirrorPath": "meshes/FJ3224_BP23785_FMA13500_Intervertebral disk of third thoracic vertebra.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3224_BP23785_FMA13500_Intervertebral%20disk%20of%20third%20thoracic%20vertebra.obj"
+    },
+    {
+      "id": "FJ3393",
+      "file": "FJ3393.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3393_BP22840_FMA16202_Sacrum.obj",
+      "sha256": "075790fa7c698f2128c83c9321167a19f67d09830cbc93b465619b4ac86bd7e6",
+      "bytes": 654514,
+      "mirrorPath": "meshes/FJ3393_BP22840_FMA16202_Sacrum.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ3393_BP22840_FMA16202_Sacrum.obj"
+    },
+    {
+      "id": "FJ4245",
+      "file": "FJ4245.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ4245_BP29808_FMA7023_Trunk%20of%20left%20first%20thoracic%20nerve.obj",
+      "sha256": "730268434b74e1ae81dc620a8b841836a9212fbff2cbd201f0a3a1fde4439034",
+      "bytes": 24327,
+      "mirrorPath": "meshes/FJ4245_BP29808_FMA7023_Trunk of left first thoracic nerve.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ4245_BP29808_FMA7023_Trunk%20of%20left%20first%20thoracic%20nerve.obj"
+    },
+    {
+      "id": "FJ4248",
+      "file": "FJ4248.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ4248_BP29807_FMA7025_Trunk%20of%20left%20second%20thoracic%20nerve.obj",
+      "sha256": "0248dfe17771bcf2f714318160d7f184cb3127473096329899efc3a946feaee8",
+      "bytes": 27165,
+      "mirrorPath": "meshes/FJ4248_BP29807_FMA7025_Trunk of left second thoracic nerve.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ4248_BP29807_FMA7025_Trunk%20of%20left%20second%20thoracic%20nerve.obj"
+    },
+    {
+      "id": "FJ4260",
+      "file": "FJ4260.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ4260_BP29456_FMA6442_Left%20first%20cervical%20nerve.obj",
+      "sha256": "105b1717c2f70059928f164a575199ebdf801905c80372c3be1228aff88fb9af",
+      "bytes": 134503,
+      "mirrorPath": "meshes/FJ4260_BP29456_FMA6442_Left first cervical nerve.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ4260_BP29456_FMA6442_Left%20first%20cervical%20nerve.obj"
+    },
+    {
+      "id": "FJ4261",
+      "file": "FJ4261.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ4261_BP29310_FMA7003_Trunk%20of%20left%20second%20cervical%20nerve.obj",
+      "sha256": "7c350173fe65eacc6f48aff7a2c224e6f1f904e63f05fe41cec69f42d902e746",
+      "bytes": 69930,
+      "mirrorPath": "meshes/FJ4261_BP29310_FMA7003_Trunk of left second cervical nerve.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ4261_BP29310_FMA7003_Trunk%20of%20left%20second%20cervical%20nerve.obj"
+    },
+    {
+      "id": "FJ4262",
+      "file": "FJ4262.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ4262_BP29408_FMA7005_Trunk%20of%20left%20third%20cervical%20nerve.obj",
+      "sha256": "a13f145f88a653114ecdef8f416bb29cc1237cccd254ec03ec6b405103c2c252",
+      "bytes": 86754,
+      "mirrorPath": "meshes/FJ4262_BP29408_FMA7005_Trunk of left third cervical nerve.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ4262_BP29408_FMA7005_Trunk%20of%20left%20third%20cervical%20nerve.obj"
+    },
+    {
+      "id": "FJ4263",
+      "file": "FJ4263.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ4263_BP29309_FMA7007_Trunk%20of%20left%20fourth%20cervical%20nerve.obj",
+      "sha256": "94f418aa78b950bf3f39ebe6086795c6c66c0fee49c5ed795f6523d0c4f21eb0",
+      "bytes": 60427,
+      "mirrorPath": "meshes/FJ4263_BP29309_FMA7007_Trunk of left fourth cervical nerve.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ4263_BP29309_FMA7007_Trunk%20of%20left%20fourth%20cervical%20nerve.obj"
+    },
+    {
+      "id": "FJ4264",
+      "file": "FJ4264.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ4264_BP29324_FMA24105_Trunk%20of%20left%20fifth%20cervical%20nerve.obj",
+      "sha256": "c45e251cfc015a3fd9834805a55e29fb3123485d3bc321af2b1442fa975d9c00",
+      "bytes": 115363,
+      "mirrorPath": "meshes/FJ4264_BP29324_FMA24105_Trunk of left fifth cervical nerve.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ4264_BP29324_FMA24105_Trunk%20of%20left%20fifth%20cervical%20nerve.obj"
+    },
+    {
+      "id": "FJ4265",
+      "file": "FJ4265.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ4265_BP29315_FMA7011_Trunk%20of%20left%20sixth%20cervical%20nerve.obj",
+      "sha256": "4f8c708b7a866609078ce513432b060fd9bf04f2b899aef52ebaf9c8af13a200",
+      "bytes": 68404,
+      "mirrorPath": "meshes/FJ4265_BP29315_FMA7011_Trunk of left sixth cervical nerve.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ4265_BP29315_FMA7011_Trunk%20of%20left%20sixth%20cervical%20nerve.obj"
+    },
+    {
+      "id": "FJ4266",
+      "file": "FJ4266.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ4266_BP29366_FMA7013_Trunk%20of%20left%20seventh%20cervical%20nerve.obj",
+      "sha256": "d22ca0d722f811e9fba1cc51accfbd50d0e8805070b6fe0616cf9700e57e529a",
+      "bytes": 58244,
+      "mirrorPath": "meshes/FJ4266_BP29366_FMA7013_Trunk of left seventh cervical nerve.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ4266_BP29366_FMA7013_Trunk%20of%20left%20seventh%20cervical%20nerve.obj"
+    },
+    {
+      "id": "FJ4267",
+      "file": "FJ4267.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ4267_BP29406_FMA7015_Trunk%20of%20left%20eighth%20cervical%20nerve.obj",
+      "sha256": "6e3be4f8b771cd9d2226869e18f2c8e99155319063c44ec1c6869bb930674002",
+      "bytes": 60680,
+      "mirrorPath": "meshes/FJ4267_BP29406_FMA7015_Trunk of left eighth cervical nerve.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ4267_BP29406_FMA7015_Trunk%20of%20left%20eighth%20cervical%20nerve.obj"
+    },
+    {
+      "id": "FJ4273",
+      "file": "FJ4273.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ4273_BP29300_FMA65364_Inferior%20trunk%20of%20left%20brachial%20nerve%20plexus.obj",
+      "sha256": "d04bdf01c87bb85a6476fae87427993eacf640093acbd279954352a2a42486db",
+      "bytes": 24250,
+      "mirrorPath": "meshes/FJ4273_BP29300_FMA65364_Inferior trunk of left brachial nerve plexus.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ4273_BP29300_FMA65364_Inferior%20trunk%20of%20left%20brachial%20nerve%20plexus.obj"
+    },
+    {
+      "id": "FJ4274",
+      "file": "FJ4274.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ4274_BP29122_FMA45239_Lateral%20cord%20of%20left%20brachial%20nerve%20plexus.obj",
+      "sha256": "b386c72f814da56f26b3fa8647e53d76b75f20008a7b6678d50d644c0358f445",
+      "bytes": 21771,
+      "mirrorPath": "meshes/FJ4274_BP29122_FMA45239_Lateral cord of left brachial nerve plexus.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ4274_BP29122_FMA45239_Lateral%20cord%20of%20left%20brachial%20nerve%20plexus.obj"
+    },
+    {
+      "id": "FJ4275",
+      "file": "FJ4275.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ4275_BP29196_FMA45241_Medial%20cord%20of%20left%20brachial%20nerve%20plexus.obj",
+      "sha256": "dafa39b78d7491f619aa9aa09e676da0560dd86357cc4d118e7ab4ce7cc89e7d",
+      "bytes": 103364,
+      "mirrorPath": "meshes/FJ4275_BP29196_FMA45241_Medial cord of left brachial nerve plexus.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ4275_BP29196_FMA45241_Medial%20cord%20of%20left%20brachial%20nerve%20plexus.obj"
+    },
+    {
+      "id": "FJ4276",
+      "file": "FJ4276.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ4276_BP29380_FMA65366_Middle%20trunk%20of%20left%20brachial%20nerve%20plexus.obj",
+      "sha256": "af471cdd660e8ec2dd4f783e2d3537c0cb0f96f522031d88389fa1fc12481526",
+      "bytes": 22974,
+      "mirrorPath": "meshes/FJ4276_BP29380_FMA65366_Middle trunk of left brachial nerve plexus.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ4276_BP29380_FMA65366_Middle%20trunk%20of%20left%20brachial%20nerve%20plexus.obj"
+    },
+    {
+      "id": "FJ4280",
+      "file": "FJ4280.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ4280_BP29303_FMA45243_Posterior%20cord%20of%20left%20brachial%20nerve%20plexus.obj",
+      "sha256": "2951c684acb4242e581f95e2d17bbe59e485bbc77c1d148d7284c68d1883135d",
+      "bytes": 65939,
+      "mirrorPath": "meshes/FJ4280_BP29303_FMA45243_Posterior cord of left brachial nerve plexus.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ4280_BP29303_FMA45243_Posterior%20cord%20of%20left%20brachial%20nerve%20plexus.obj"
+    },
+    {
+      "id": "FJ4290",
+      "file": "FJ4290.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ4290_BP29296_FMA65362_Superior%20trunk%20of%20left%20brachial%20nerve%20plexus.obj",
+      "sha256": "eef38026c899cc0602025cbdff6efab87c45da270b2b4ff63989f1bd5db52077",
+      "bytes": 26889,
+      "mirrorPath": "meshes/FJ4290_BP29296_FMA65362_Superior trunk of left brachial nerve plexus.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ4290_BP29296_FMA65362_Superior%20trunk%20of%20left%20brachial%20nerve%20plexus.obj"
+    },
+    {
+      "id": "FJ4425",
+      "file": "FJ4425.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ4425_BP29628_FMA52590_Cauda%20equina.obj",
+      "sha256": "69c07f328df07098ecaa77c29d9b65f33b928678ae2eb69e984681ffc2e8e339",
+      "bytes": 747869,
+      "mirrorPath": "meshes/FJ4425_BP29628_FMA52590_Cauda equina.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ4425_BP29628_FMA52590_Cauda%20equina.obj"
+    },
+    {
+      "id": "FJ4426",
+      "file": "FJ4426.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ4426_BP29816_FMA242005_Neural%20tissue%20of%20spinal%20cord.obj",
+      "sha256": "16a3dbf5a0fbc6334df956071a8e27b4f538a9d1f18178919984df0856aa7053",
+      "bytes": 852923,
+      "mirrorPath": "meshes/FJ4426_BP29816_FMA242005_Neural tissue of spinal cord.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ4426_BP29816_FMA242005_Neural%20tissue%20of%20spinal%20cord.obj"
+    }
+  ]
+}
